@@ -1,6 +1,6 @@
 # Student-Utility-System
 Collaborative C project using Git
-# Student Utility System
+
 
 ## About the Project
 The **Student Utility System** is a collaborative C programming project developed to make common student-related calculations and tasks easier. It provides simple and efficient programs to help students perform useful academic operations.
